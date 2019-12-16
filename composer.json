@@ -1,0 +1,20 @@
+{
+    "name": "gilberg-vrn/php-tartarus",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Emelyanov",
+            "email": "gilberg.vrn@gmail.com"
+        }
+    ],
+    "description": "PHP port of tartarus lib",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "tartarus\\": "src/"
+        }
+    }
+}
